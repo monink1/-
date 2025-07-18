@@ -15,3 +15,5 @@ python xxx.py -h
 ```
 
 获取每个用法
+
+若失败重新下载yolov5即可
